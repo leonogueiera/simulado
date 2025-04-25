@@ -1,0 +1,39 @@
+table {
+    width: 100%;
+    height: 100vh;
+}
+
+#linha1 { height: 150px; background-color: red;}
+#linha2 { height: 120px; background-color: purple;}
+#linha3 { height: 270px; background-color: orange;}
+#linha4 { height: 60px; background-color: yellow;}
+#linha5 { height: 60px;background-color: yellow;}
+#linha6 { background-color: red;}
+
+#td1 { width: 30%;}
+#logo { 
+    height: 200px;
+    width: 150px;
+    text-align: right;
+}
+#td5 { width: 31%;}
+#td6 { width: 8%;}
+#img1 { 
+    width: 15%;
+    vertical-align: top;
+}
+#texto { 
+    width: 18%;
+    text-align: justify;
+    vertical-align: top;
+    padding: 2%;
+}
+#td9 { width: 28%;
+    text-align: left;
+    vertical-align: bottom;
+}
+
+#z {
+    height: 200px;
+    width: 150px;
+}
